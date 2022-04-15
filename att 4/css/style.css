@@ -1,0 +1,53 @@
+/* <!--
+    Nome: Pedro Filipe Policiano Silva
+    RA: N9218b9
+    Disciplina: Web Responsiva
+
+    Nome: Vitor Nascimento Cerqueira
+    RA: N9257e1
+    Disciplina: Web Responsiva
+--> */
+
+.centro{
+    margin: 0 auto;
+}
+.tudo{
+    
+    display: flex;
+    flex-direction: row;
+    width: 100px;
+}
+.base{
+    margin: 2px;
+    height: auto;
+    padding: 80px;
+    width: 30px;
+}
+.aa{
+ background-color: red;
+}
+.bb{
+background-color: green;
+}
+
+.cc{
+    background-color: blue;
+}
+.dd{
+    background-color: yellow;
+}
+.ee{
+    background-color: grey;
+}
+.ff{
+    background-color: white;
+}
+.gg{
+    background-color: black;
+}
+.hh{
+    background-color: rgb(192, 192, 192);
+}
+.ii{
+    background-color: rgb(146, 13, 146);
+}

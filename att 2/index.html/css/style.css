@@ -1,0 +1,35 @@
+.imagem1 img{
+    margin-top: 12%;
+width: 500px;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+.t1{
+    top: 0%;
+    padding: 3%;
+    background-color: yellow;
+    left: 0%;
+    position: absolute;
+}
+.t2{
+    padding: 3%;
+    background-color: blue;
+    top: 0%;
+    right: 0%;
+    position: absolute;
+}
+.t3{
+    padding: 3%;
+    background-color: green;
+    left: 0%;
+    bottom: 0%;
+    position: absolute;
+}
+.t4{
+    padding: 3%;
+    background-color: rgb(168, 168, 55);
+    bottom: 0%;
+    right: 0%;
+    position: absolute;
+}
